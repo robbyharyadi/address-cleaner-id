@@ -1,6 +1,6 @@
 # Address Parser & Data Cleaner
 
-A high-performance Python tool designed to automate the cleaning, standardizing, and parsing of messy address data. This tool is specifically optimized for Indonesian address formats, housing complexes, and regional structures.
+A Python tool designed to automate the cleaning, standardizing, and parsing of messy address data. This tool is specifically optimized for Indonesian address formats, housing complexes, and regional structures.
 
 ## 🚀 Key Features
 * **Smart RT/RW Logic**: Intelligently distinguishes between administrative slashes (e.g., `RT 05/01` → `RT 05 RW 01`) and housing block slashes (e.g., `C6/12` → `C6 Nomor 12`).
@@ -23,4 +23,5 @@ The tool intelligently transforms messy, abbreviated strings into structured JSO
   "city": "Jakarta Selatan",
   "province": "DKI Jakarta"
 }
+
 
