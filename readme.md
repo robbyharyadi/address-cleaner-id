@@ -8,3 +8,19 @@ A high-performance Python tool designed to automate the cleaning, standardizing,
 * **Entity Sanitization**: Automatically removes identified cities/provinces from the street address to eliminate redundancy.
 * **Technical Term Recovery**: Ensures terms like `RT`, `RW`, `SR`, and Roman numerals remain correctly capitalized.
 * **Professional Progress UI**: Integrated with `tqdm` for real-time processing feedback.
+
+### 📊 Result Example
+
+The tool intelligently transforms messy, abbreviated strings into structured JSON objects:
+
+
+**Output (Result):**
+```json
+{
+  "id": 1,
+  "raw_address": "Jl. Jend. Sudirman No.Kav 21, Jak-Sel, DKI",
+  "street_address": "Jalan Jenderal Sudirman Nomor Kavling 21",
+  "city": "Jakarta Selatan",
+  "province": "DKI Jakarta"
+}
+
