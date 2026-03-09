@@ -1,0 +1,27 @@
+{
+    "cities": {
+        "JAKARTA SELATAN": "DKI JAKARTA",
+        "JAKARTA TIMUR": "DKI JAKARTA",
+        "JAKARTA BARAT": "DKI JAKARTA",
+        "JAKARTA PUSAT": "DKI JAKARTA",
+        "JAKARTA UTARA": "DKI JAKARTA",
+        "BOGOR": "JAWA BARAT",
+        "BEKASI": "JAWA BARAT",
+        "DEPOK": "JAWA BARAT",
+        "TANGERANG SELATAN": "BANTEN",
+        "BANDUNG": "JAWA BARAT",
+        "SURABAYA": "JAWA TIMUR",
+        "JEMBER": "JAWA TIMUR",
+        "SEMARANG": "JAWA TENGAH"
+    },
+    "mappings": {
+        "JL": "JALAN", "JLN": "JALAN", "KAV": "KAVLING", "NO": "NOMOR",
+        "JAKSEL": "JAKARTA SELATAN", "JAK-SEL": "JAKARTA SELATAN",
+        "JAKTIM": "JAKARTA TIMUR", "JAK-TIM": "JAKARTA TIMUR",
+        "JAKBAR": "JAKARTA BARAT", "JAK-BAR": "JAKARTA BARAT",
+        "JAKPUS": "JAKARTA PUSAT", "JAK-PUS": "JAKARTA PUSAT",
+        "TANGSEL": "TANGERANG SELATAN", "BKS": "BEKASI",
+        "BGR": "BOGOR", "BOG": "BOGOR", "DPK": "DEPOK",
+        "JABAR": "JAWA BARAT", "JATENG": "JAWA TENGAH", "JATIM": "JAWA TIMUR"
+    }
+}
